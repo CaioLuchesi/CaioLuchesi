@@ -1,5 +1,5 @@
 ## 
-<div align="center">
+<div align="center" style="display: inline-block">
   <a href="https://github.com/CaioLuchesi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuchesi&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,6 +14,7 @@
   <img align="center" alt="CaioLuchesi-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="CaioLuchesi-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="CaioLuchesi-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<br><br>
   <img align="center" alt="CaioLuchesi-AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 </div>
   
