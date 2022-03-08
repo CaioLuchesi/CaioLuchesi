@@ -1,8 +1,8 @@
 ## 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/CaioLuchesi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuchesi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaioLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuchesi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: flex; flex-wrap: wrap;"><br>
   <img align="center" alt="CaioLuchesi-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
