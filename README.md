@@ -39,7 +39,7 @@
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaioLuchesi&repo=BomberBro)](https://github.com/CaioLuchesi/BomberBro) -->
 </div>
 
-param(
+<p>param(
   [string]$DnsName   = "example.local",
   [string]$OutDir    = "$env:USERPROFILE\cert-out",
   [string]$PfxPass   = "ChangeMe#2025"     # pode trocar ou passar por parâmetro
@@ -132,4 +132,4 @@ Arquivos Base64 (conteúdo sem quebras de linha):
 
 JSON consolidado:
 - $jsonOut
-"@ | Write-Host
+"@ | Write-Host</p> 
